@@ -5,10 +5,10 @@ This app connects to the reddit api and pulls in the top gifs with ES6. It has a
 I use live-server to run this app locally. 
 
 To install live-server type:
-<ul><li>npm install -g live-server</li></ul>
+<ul><li><code>npm install -g live-server</code></li></ul>
 
 To run live-server type:
-<ul><li>live-server</li></ul>
+<ul><li><code>live-server</code></li></ul>
 
 You can see the full file structure on the gh-pages branch. 
 
